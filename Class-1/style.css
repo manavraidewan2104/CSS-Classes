@@ -23,7 +23,100 @@ p3 {
     background-color: blue;
 }
 
-button1 {
+button {
     color: white;
     background-color: black;
+}
+
+p5 {
+    color: rgb(189, 0, 230 );
+}
+
+p6 {
+    color: #ff89ed;
+}
+
+p13 {
+    text-align: end;
+}
+
+p14 {
+    text-align: start;
+}
+
+p15 {
+    text-align: center;
+}
+
+p16 {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+p17 {
+    font-weight: normal;
+}
+
+p18 {
+    font-weight: 100;
+}
+
+p19 {
+    font-weight: bold;
+}
+
+p20 {
+    font-weight: 800;
+}
+
+p21 {
+    text-decoration: underline;
+}
+
+p22 {
+    text-decoration: line-through;
+}
+
+p23 {
+    text-decoration: overline;
+}
+
+p24 {
+    line-height: -2;
+}
+
+p25 {
+    line-height: 2.5;
+}
+
+p26 {
+    letter-spacing: -2px;
+} 
+
+p27 {
+    letter-spacing: 4px;
+}
+
+p28 {
+    font-size: 1.42rem;
+}
+
+p29 {
+
+font-size: 2rem;
+}
+
+p30 {
+    font-family: league spartan;
+    color: #ffa511;
+    text-align: center;
+    font-size: 1.75rem;
+    font-weight: 900;
+    letter-spacing: 0.3rem;
+    line-height: 1.5px;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
 }

@@ -1,0 +1,23 @@
+* {
+    font-family:'Trebuchet MS';
+}
+
+h1 ,
+h3 {
+    color: #b2b3b2;
+}
+
+#login {
+    background-color: aquamarine;
+    color: blue;
+}
+
+#signup {
+    background-color: #b2b3b2;
+    color: blueviolet;
+}
+
+p a {
+    color: purple;
+    background-color:aquamarine;
+}
